@@ -81,7 +81,6 @@ Reconciling transaction records between payment gateways (such as Razorpay) and 
 
 ## 🏗️ System Architecture
 
-```mermaid
 flowchart TD
     subgraph Frontend["Frontend Client (React 18 + Vite)"]
         UI["Dashboard UI"]
