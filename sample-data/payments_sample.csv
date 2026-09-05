@@ -1,0 +1,8 @@
+transaction_id,order_id,amount,currency,status,payment_method,created_at
+TXN_1001,ORD_5001,1500.00,INR,captured,upi,2026-08-20T10:15:30Z
+TXN_1002,ORD_5002,2499.00,INR,captured,card,2026-08-20T11:00:15Z
+TXN_1003,ORD_5003,5000.00,INR,captured,netbanking,2026-08-20T11:45:00Z
+TXN_1004,ORD_5004,1200.00,INR,captured,upi,2026-08-20T12:30:10Z
+TXN_1005,ORD_5005,850.00,INR,captured,wallet,2026-08-20T13:10:00Z
+TXN_1005,ORD_5005,850.00,INR,captured,wallet,2026-08-20T13:10:05Z
+TXN_1006,ORD_5006,3100.00,INR,captured,upi,2026-08-20T14:00:00Z
