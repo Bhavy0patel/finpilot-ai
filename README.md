@@ -139,10 +139,10 @@ flowchart TD
 | **Build Tools** | Apache Maven 3.9+, Node.js 18+ |
 
 ---
-
-## 📁 Project Structure
-
 ```
+## 📁 Project Structure
+```
+---
 finpilot-ai/
 ├── backend/
 │   ├── pom.xml                                  # Maven dependencies & build configuration
@@ -196,8 +196,10 @@ finpilot-ai/
     ├── settlements_sample.csv                   # Bank settlement statement
     ├── try_payments.csv                         # 10-transaction test payments
     └── try_settlements.csv                      # 10-transaction test settlements
-```
+---
 
+
+```
 ---
 
 ## 🚦 Reconciliation Statuses & Anomaly Types
